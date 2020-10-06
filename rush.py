@@ -1,9 +1,7 @@
-# Introduce variables
-gold = 'gold'
-jucon = 'JuCon'
+#!/usr/bin/python3
 
-# Use mad new string concatenation algorithm by Professor X
-output = 'Hello' + ', ' + jucon + ', where is your ' + gold + '?'
+# Introduce variables
+output = u'Hello JupyterCon, and thank you for the tutorials!'
 
 # Run the program
 print(output)
