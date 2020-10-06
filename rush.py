@@ -1,0 +1,1 @@
+print("Hello, JuCon, where is your gold?")
