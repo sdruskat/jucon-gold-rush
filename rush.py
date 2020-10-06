@@ -1,1 +1,2 @@
-print("Hello, JuCon, where is your gold?")
+gold = 'gold'
+print('Hello, JuCon, where is your {}?'.format(gold))
