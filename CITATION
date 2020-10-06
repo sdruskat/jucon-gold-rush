@@ -1,3 +1,9 @@
-If you use this software in your academic research, please cite it as follows:
+TODO: Add correct BibTeX once the paper is published
 
-> Druskat, Stephan and Col Laborator. 2020-10-06. jucon-gold-rush (Version 4.0.0). doi: 12.3456/not-a-real-doi.4815162342.
+@article{druskatJucongoldrushforthcoming,
+  title = {Jucon-Gold-Rush},
+  author = {Druskat, Stephan and Laborator, Col},
+  year = {forthcoming},
+  abstract = {jucon-gold-rush is the Python reference implementation of the concat++ algorithm for advanced string concatenation by Professor Kim X.},
+  journal = {Journal of Jupyterian Research Software Examples}
+}

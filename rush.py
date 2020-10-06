@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
-# Introduce variables
-output = u'Hello JupyterCon, and thank you for the tutorials!'
+# Introduce variable
+output = u'Hello JupyterCon, please let us know what should go in the formatted citation!'
 
 # Run the program
 print(output)
